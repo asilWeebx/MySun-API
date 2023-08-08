@@ -1,1 +1,0 @@
-web: gunicorn mysun_API.wsgi --log-file -
